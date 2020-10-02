@@ -5,7 +5,7 @@ body{
 
 .upper-panel{
   height:100px;
-  background-color: pink;
+  background-color: yellow;
 }
 
 .location h4{
@@ -32,7 +32,7 @@ body{
 }
 .home-main {
   background: rgba(0,0,0, 0.4);
-  color: white;
+  color: green;
   margin-top: 100px;
 }
 .home-main h1{
